@@ -1,0 +1,36 @@
+{
+  "name": "wheel",
+  "version": "1.0.0",
+  "description": "A collection of utils for web development",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "webpack --display-error-details"
+  },
+  "keywords": [
+    "utils",
+    "js",
+    "utils",
+    "web",
+    "utils"
+  ],
+  "homepage": "https://github.com/eeve/wheel",
+  "author": {
+    "email": "eeveme@gmail.com",
+    "name": "eeve",
+    "url": "https://eeve.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eeve/wheel.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eeve/wheel/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3",
+    "webpack": "^1.13.1"
+  }
+}
